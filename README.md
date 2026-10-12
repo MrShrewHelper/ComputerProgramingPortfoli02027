@@ -7,17 +7,16 @@
 ![Calculator2026](https://github.com/MrShrewHelper/ComputerProgramingPortfoli02027/blob/main/images/calc2026.png?raw=true)
 
 [Link to Mr.Shrew's source code](https://github.com/MrShrewHelper/ComputerProgramingPortfoli02027/tree/main/src/Calc)
-#Name [Broken Calculator Which Doesn't Really Work]
 ## Overview
 [This was supposed to be a calculator which was attempted in processing. If you click 8, -, and then the equals sign then you get 8-1=7, which is the only equation it can do. If you click one of the buttons the entire code, and possibly your computer dies, bt that last one is very unlikeley.]
 
 ## Current Status
 Working:
-- [The number buttons work]
-- [8-1 works]
+- The number buttons work
+- 8-1 works
 
 Still in progress:
-- [I need to fix all the operator buttons]
+- I need to fix all the operator buttons
 
 ## How to Run
 Built with Processing.
